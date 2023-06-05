@@ -18,7 +18,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "PT-BR"
 title: "MEUS PROJETOS"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle: "teste"
 name: "Rafael Moccelin Lavratti"
 description: "Olá, pessoal do LinkedIn!
 Estou entusiasmado em compartilhar meu repositório de projetos em Python com todos vocês. Como desenvolvedor apaixonado pela linguagem Python, dediquei muito tempo e esforço para criar projetos interessantes e úteis, e agora gostaria de compartilhar o resultado com vocês.
