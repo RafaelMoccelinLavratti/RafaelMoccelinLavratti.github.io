@@ -20,9 +20,7 @@ title: "MEUS PROJETOS"
 title_separator          : "-"
 subtitle: "teste"
 name: "Rafael Moccelin Lavratti"
-description: "Olá, pessoal do LinkedIn!
-Estou entusiasmado em compartilhar meu repositório de projetos em Python com todos vocês. Como desenvolvedor apaixonado pela linguagem Python, dediquei muito tempo e esforço para criar projetos interessantes e úteis, e agora gostaria de compartilhar o resultado com vocês.
-Neste repositório, você encontrará uma variedade de projetos, desde pequenos scripts até aplicativos mais complexos. Cada projeto é acompanhado por uma descrição detalhada e instruções de uso. Além disso, todo o código está disponível gratuitamente para que você possa explorar, aprender e até mesmo contribuir se desejar"
+description: 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rafael Moccelin Lavratti"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Olá, pessoal do LinkedIn!
+Estou entusiasmado em compartilhar meu repositório de projetos em Python com todos vocês. Como desenvolvedor apaixonado pela linguagem Python, dediquei muito tempo e esforço para criar projetos interessantes e úteis, e agora gostaria de compartilhar o resultado com vocês.
+Neste repositório, você encontrará uma variedade de projetos, desde pequenos scripts até aplicativos mais complexos. Cada projeto é acompanhado por uma descrição detalhada e instruções de uso. Além disso, todo o código está disponível gratuitamente para que você possa explorar, aprender e até mesmo contribuir se desejar"
   location         : "Somewhere"
   email            :
   links:
