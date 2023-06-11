@@ -44,7 +44,7 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
+    repo_id              : "https://github.com/RafaelMoccelinLavratti/PROJETOS_PYTHON"
     category_name        : # Full text name of the category
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
