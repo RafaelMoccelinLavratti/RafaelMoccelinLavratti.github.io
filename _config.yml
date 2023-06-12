@@ -283,7 +283,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "PROJETOS PYTHON/PYTHON/APP_PREVISÃO_TEMPO/APP_PREVISÃO.py"
+      path: "_posts/PROJETOS PYTHON"
       type: posts
     values:
       layout: single
